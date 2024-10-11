@@ -14,7 +14,7 @@
 	<name>coletaSeletiva</name>
 	<description>Cap 8 - Microsserviços com Spring - Rest com Spring Boot</description>
 	<properties>
-		<java.version>18</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
